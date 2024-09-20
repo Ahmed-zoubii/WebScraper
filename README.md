@@ -1,8 +1,6 @@
 #### This is the *Web Scraper* project I made myself.
 
-
-<p>You will create a function that takes a website address and a number of webpages as input arguments and then goes all over the website saving every news article on the page to a separate .txt file on your computer.</p><br/><br/>Learn more at <a href="https://hyperskill.org/projects/145?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card">https://hyperskill.org/projects/145</a>
-
+This project is a Python-based web scraper designed to extract and save articles of a specific type (e.g., "News") from the Nature website. The scraper allows users to specify the number of pages to scrape and the type of article to retrieve. It saves the content of each article in separate text files, organized by page number
 Here's the link to the project: https://hyperskill.org/projects/145
 
 Check out my profile: https://hyperskill.org/profile/592864410
